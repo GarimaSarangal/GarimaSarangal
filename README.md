@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and Deep Learning Projects
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Computer vision projects
-- 📫 How to reach me - garimasarangal@gmail.com , LinkedIN - Garima Sarangal
+- 📫 How to reach me - garimasarangal@gmail.com , LinkedIn - Garima Sarangal
 
 <!---
 GarimaSarangal/GarimaSarangal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

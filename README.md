@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @GarimaSarangal
-- 👀 I am Software Engineer at Microsoft. Currently enjoying working on [Lobe](https://www.lobe.ai/) and [AIBuilder](https://docs.microsoft.com/en-us/ai-builder/overview)
-- 💞️ Always up for working on new ideas. Feel free to reach out if have some exciting idea.
-- 📫 How to reach me - garimasarangal@gmail.com , LinkedIn - [Garima Sarangal](https://www.linkedin.com/in/garimasarangal/)
+Hi, I’m @GarimaSarangal, I am a Software Engineer at Microsoft on Lobe, AI Builder, Power Cards and currently on secret things. Always up for working on new ideas. Feel free to reach out at garimasarangal@gmail.com , LinkedIn - [Garima Sarangal](https://www.linkedin.com/in/garimasarangal/) if have some exciting idea.
 
 <!---
 GarimaSarangal/GarimaSarangal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

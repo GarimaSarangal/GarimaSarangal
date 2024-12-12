@@ -1,4 +1,4 @@
-# Heyo!!
+# Hello!!
 
 I am Garima 😊. I am a Senior Software Engineer at Microsoft working in Power Platform. I am always up for working on new ideas. Feel free to reach out at garimasarangal@gmail.com , LinkedIn - [Garima Sarangal](https://www.linkedin.com/in/garimasarangal/) if have some exciting idea.
 
